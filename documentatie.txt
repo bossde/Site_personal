@@ -1,0 +1,29 @@
+Despre.html:
+
+Structura HTML:
+Head include meta, titlu și link-uri către fișierele externe de stil.
+Body include un antet, o navigare, o secțiune de descriere și un subsol.
+Stiluri CSS:
+Stilizare pentru secțiunea de descriere cu text centrat, link-uri stilizate și imagini responsive.
+Media query pentru ecrane mai mici ajustând dimensiunile fontului.
+contact.css:
+
+Stilizare pentru o secțiune de e-mail cu un formular centrat.
+Media query pentru ecrane mai mici ajustând dimensiunile fontului.
+Pagina de navigare.html:
+
+Structura HTML:
+Head include meta, titlu și link-uri către fișierele externe de stil.
+Body include un antet, o navigare, o secțiune de descriere, o secțiune despre hobby-uri și un subsol.
+Stiluri CSS:
+Stilizare pentru secțiunile de descriere și despre hobby-uri cu text centrat și imagini responsive.
+Media queries pentru ajustarea aspectului și dimensiunilor fontului pe ecrane mai mici.
+portofoliu.css:
+
+Stilizare pentru o secțiune ce conține detalii personale și o tabelă cu abilități lingvistice.
+Media queries pentru ajustarea dimensiunilor imaginilor pe ecrane mai mici.
+styles.css:
+
+Stiluri globale pentru body, antet și subsol.
+
+Am preluat bara de navigatie de la urmatorul link: https://codepen.io/erikterwan/pen/EVzeRP
